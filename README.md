@@ -104,11 +104,11 @@ export default TodoList;
 
 ### Bu State Değişikliklerini Tetikleyen Unsurları Belirleyin
 
-## Durumu useState ile Bellekte Temsil Edin
+### Durumu useState ile Bellekte Temsil Edin
 
-## Gereksiz Olan State Değişkenlerini Kaldırın
+### Gereksiz Olan State Değişkenlerini Kaldırın
 
-## Stateleri ayarlamak için etkinlik dinleyiciler(Event handlers) kullanın ve State durumlarını güncelleyin, yenileyin, kontrol edin.
+### Stateleri ayarlamak için etkinlik dinleyiciler(Event handlers) kullanın ve State durumlarını güncelleyin, yenileyin, kontrol edin.
 
 
 Bu adımları takip ederek, React'te deklaratif bir yaklaşımla UI'yi nasıl uygulayabileceğinizi daha iyi anlayacaksınız.
